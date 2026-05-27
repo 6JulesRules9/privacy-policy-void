@@ -7,6 +7,7 @@ This repository contains the legal documents for the mobile game **VOID** by Jul
 | [Privacy Policy](privacypolicyen.md) | English |
 | [Datenschutzerklärung](datenschutzerklaerungde.md) | Deutsch |
 | [Impressum](impressum.md) | Deutsch |
+| [Data Deletion](data-deletion.md) | English |
 
 ---
 
