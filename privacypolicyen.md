@@ -172,7 +172,7 @@ To exercise your rights, contact us at: **void@julius-krassa.de**
 
 ## 9. Children's Privacy
 
-VOID is not directed at children under the age of 13 (or 16 in the EEA where applicable). We do not knowingly collect personal data from children. If you believe a child has provided us with personal data, please contact us and we will delete it promptly.
+VOID contains no violence, no explicit content, and no communication between players. Age ratings may vary by region. If you are under the age of 13, please ensure a parent or guardian has reviewed this Privacy Policy. Since VOID does not require real names, email addresses, or any account registration, the data collected is minimal by design.
 
 ---
 
