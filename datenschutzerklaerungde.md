@@ -172,7 +172,7 @@ Zur Ausübung deiner Rechte wende dich an: **void@julius-krassa.de**
 
 ## 9. Datenschutz für Minderjährige
 
-VOID richtet sich nicht an Kinder unter 13 Jahren (bzw. unter 16 Jahren im EWR, soweit national abweichend geregelt). Wir erheben wissentlich keine personenbezogenen Daten von Kindern. Solltest du der Ansicht sein, dass ein Kind uns personenbezogene Daten übermittelt hat, kontaktiere uns bitte — wir löschen diese Daten unverzüglich.
+VOID enthält keine Gewalt, keine expliziten Inhalte und keine Kommunikation zwischen Spielern. Altersfreigaben können je nach Region variieren. Wenn du unter 13 Jahre alt bist, stelle bitte sicher, dass ein Elternteil oder Erziehungsberechtigter diese Datenschutzerklärung gelesen hat. Da VOID weder echte Namen, E-Mail-Adressen noch eine Kontoregistrierung erfordert, sind die erhobenen Daten von vornherein auf ein Minimum beschränkt.
 
 ---
 
